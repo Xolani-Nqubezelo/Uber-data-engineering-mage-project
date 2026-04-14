@@ -40,5 +40,10 @@ Once deployment is finished, open the Data Factory resource by clicking **Go to 
 
 <img width="1648" height="870" alt="image" src="https://github.com/user-attachments/assets/0229844f-5593-475c-a965-094e081aca23" />
 
+### Setting Up Azure Key Vault
+Azure Key Vault is used to securely store and manage cryptographic keys, secrets, and certificates required by cloud applications and services. To set it up, go to the Azure Portal and search for “Key Vault” using the search bar or locate it in the navigation menu. Complete the required configuration and deploy the resource.
+
+Once the deployment is complete, open the Key Vault resource. From there, you can begin adding secrets (such as database connection strings), keys (for encryption and decryption), and certificates. You can also configure access policies to control which users or Azure services have permission to access the vault.
+<img width="1896" height="853" alt="image" src="https://github.com/user-attachments/assets/807d2d59-ce9a-4ab0-9947-898e49855ec2" />
 
 
