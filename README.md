@@ -1,9 +1,6 @@
 # Building Data Pipelines for Modern Data Engineering | End to End Data Engineering Project (Medallion Architecture)
 uber data engineering pipeline using mage AI and BigQuery
 
-
-
-
 # Tools and Technologies
 We’ll explore how to set up an end-to-end data engineering project using a suite of Azure services, integrating dbt for efficient data transformations. Here’s a detailed breakdown of each component and its role in our project:
 
@@ -31,4 +28,8 @@ Setting up resource groups in Azure is a fundamental step in organizing and mana
 Given our use case and chosen approach, I will set up the necessary containers to support the implementation of the medallion architecture.
 
 <img width="1882" height="811" alt="image" src="https://github.com/user-attachments/assets/839ac630-2156-4975-8365-05b8ff018409" />
+
+We will then create containers for the Bronze, Silver, and Gold layers.
+<img width="612" height="360" alt="image" src="https://github.com/user-attachments/assets/74975387-636f-49d5-86de-887418c66562" />
+
 
