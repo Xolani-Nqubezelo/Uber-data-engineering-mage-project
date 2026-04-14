@@ -27,6 +27,8 @@ Getting started with Azure is pretty easy, as they offer free 12 months access t
 # Setting up the resource groups
 Setting up resource groups in Azure is a fundamental step in organizing and managing your Azure resources efficiently. A resource group in Azure is a container that holds related resources for an Azure solution. Once logged in, find the “Resource groups” option in the navigation pane on the left-hand side or list of services. If it’s not visible, use the search bar at the top to search for “Resource groups”, fill in the required details and once the deployment is complete, you can navigate to the resource group and start adding resources like Azure SQL databases, Azure Data Lake storage accounts, etc.
 <img width="1902" height="878" alt="image" src="https://github.com/user-attachments/assets/62085022-1ffc-41e5-b4b4-2b835db6ad9e" />
+
 Given our use case and chosen approach, I will set up the necessary containers to support the implementation of the medallion architecture.
-<img width="1882" height="811" alt="image" src="https://github.com/user-attachments/assets/dd7aab73-1411-4a32-a60d-5b5df0ac23c6" />
+
+<img width="1882" height="811" alt="image" src="https://github.com/user-attachments/assets/839ac630-2156-4975-8365-05b8ff018409" />
 
