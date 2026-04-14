@@ -53,3 +53,11 @@ Next, we’ll set up an Azure SQL Database and populate it with the AdventureWor
 
 Under the **Additional Settings** tab, choose the sample database option in the existing data section to load the AdventureWorks LT dataset. After that, proceed with the default steps by clicking **Next** and then **Review + Create** to complete the setup.
 
+### Data Integration with Azure Data Factory
+After completing the setup, the next step is to begin building pipelines in Azure Data Factory. You can do this by returning to the ADF Studio page or by searching for “Data Factory” in the top search bar and opening the resource.
+
+
+### Connecting ADF to Azure SQL Database
+The connection between Azure Data Factory (ADF) and the SQL database is established using a linked service. To access this, go to the **Manage** section in the sidebar, then select **Linked Services** under Connections and click **+ New**. Provide the database details and authentication credentials, then test the connection to confirm it has been successfully established.
+
+
