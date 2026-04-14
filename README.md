@@ -20,3 +20,11 @@ Azure Databricks: For powerful data processing and analytics, we’ll leverage A
 Azure Data Factory: As our primary data integration tool, Azure Data Factory will orchestrate and automate the movement and transformation of data. It’s a key component for building data pipelines, allowing us to efficiently manage data flows between various Azure services and external data sources.
 
 dbt (Data Build Tool): dbt will be a key player in our data transformation strategy. It allows for the creation and management of data transformation workflows using familiar SQL syntax. dbt fits seamlessly into our architecture, particularly in the transformation phase, where it can be used to model data, run tests, and generate documentation. This makes it easier for teams, especially those proficient in SQL, to contribute to the data transformation process, ensuring that business logic is consistently applied and documented. Integrating dbt with Azure SQL and Azure Data Lake enhances our ability to manage and transform data efficiently, while maintaining clarity and consistency across the entire pipeline.
+
+# Setting up the stage on Azure Cloud
+Getting started with Azure is pretty easy, as they offer free 12 months access to over 55+ services. You can get started by creating a free account. Once that is created, you only need to sign in with your credentials and you will have access to the landing page.
+
+# Setting up the resource groups
+Setting up resource groups in Azure is a fundamental step in organizing and managing your Azure resources efficiently. A resource group in Azure is a container that holds related resources for an Azure solution. Once logged in, find the “Resource groups” option in the navigation pane on the left-hand side or list of services. If it’s not visible, use the search bar at the top to search for “Resource groups”, fill in the required details and once the deployment is complete, you can navigate to the resource group and start adding resources like Azure SQL databases, Azure Data Lake storage accounts, etc.
+<img width="1902" height="878" alt="image" src="https://github.com/user-attachments/assets/62085022-1ffc-41e5-b4b4-2b835db6ad9e" />
+
