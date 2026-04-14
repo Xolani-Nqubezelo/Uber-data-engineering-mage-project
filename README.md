@@ -48,7 +48,8 @@ Once the deployment is complete, open the Key Vault resource. From there, you ca
 <img width="1878" height="827" alt="image" src="https://github.com/user-attachments/assets/cd7082b4-786a-47e8-b0b6-bf239b7cce2f" />
 
 ### Creating SQL Database and Loading Sample Data
-Next, we’ll set up an Azure SQL Database and populate it with the AdventureWorks sample data. In the Azure Portal, search for “SQL Databases” using the search bar or access it through the navigation pane. If you don’t already have an SQL server, you can create one by selecting **Create New** next to the server dropdown in the database configuration section.
+Next, we’ll set up an Azure SQL Database and populate it with the *AdventureWorks sample data* (source). 
+In the Azure Portal, search for “SQL Databases” using the search bar or access it through the navigation pane. If you don’t already have an SQL server, you can create one by selecting **Create New** next to the server dropdown in the database configuration section.
 <img width="1907" height="822" alt="image" src="https://github.com/user-attachments/assets/1f6bf0f7-322f-4d23-ae76-dd551ab33b04" />
 <img width="1873" height="813" alt="image" src="https://github.com/user-attachments/assets/e3b87d70-6d90-4ae2-8a60-7edcde3823a6" />
 
