@@ -46,4 +46,8 @@ Azure Key Vault is used to securely store and manage cryptographic keys, secrets
 Once the deployment is complete, open the Key Vault resource. From there, you can begin adding secrets (such as database connection strings), keys (for encryption and decryption), and certificates. You can also configure access policies to control which users or Azure services have permission to access the vault.
 <img width="1896" height="853" alt="image" src="https://github.com/user-attachments/assets/807d2d59-ce9a-4ab0-9947-898e49855ec2" />
 
+### Creating SQL Database and Loading Sample Data
+Next, we’ll set up an Azure SQL Database and populate it with the AdventureWorks sample data. In the Azure Portal, search for “SQL Databases” using the search bar or access it through the navigation pane. If you don’t already have an SQL server, you can create one by selecting **Create New** next to the server dropdown in the database configuration section.
+
+Under the **Additional Settings** tab, choose the sample database option in the existing data section to load the AdventureWorks LT dataset. After that, proceed with the default steps by clicking **Next** and then **Review + Create** to complete the setup.
 
