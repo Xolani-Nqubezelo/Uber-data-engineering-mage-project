@@ -30,7 +30,7 @@ Given our use case and chosen approach, I will set up the necessary containers t
 <img width="1882" height="811" alt="image" src="https://github.com/user-attachments/assets/839ac630-2156-4975-8365-05b8ff018409" />
 
 We will then create containers for the Bronze, Silver, and Gold layers.
-<img width="612" height="360" alt="image" src="https://github.com/user-attachments/assets/74975387-636f-49d5-86de-887418c66562" />
+<img width="1905" height="865" alt="image" src="https://github.com/user-attachments/assets/73f10b24-0596-4ccb-bea7-2e89332a4163" />
 
 ### Setting Up Azure Data Factory
 
