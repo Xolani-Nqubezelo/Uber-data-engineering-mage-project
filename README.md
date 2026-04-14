@@ -32,4 +32,13 @@ Given our use case and chosen approach, I will set up the necessary containers t
 We will then create containers for the Bronze, Silver, and Gold layers.
 <img width="612" height="360" alt="image" src="https://github.com/user-attachments/assets/74975387-636f-49d5-86de-887418c66562" />
 
+### Setting Up Azure Data Factory
+
+Azure Data Factory (ADF) enables you to build a data integration solution for creating, scheduling, and orchestrating ETL/ELT workflows. To get started, go to the Azure Portal and search for “Data Factory” using the top search bar or locate it in the navigation menu. Enter the required details, select **Review + Create**, and complete the deployment.
+
+Once deployment is finished, open the Data Factory resource by clicking **Go to resource** or selecting it from your resource list. From the overview page, click on the **Author & Monitor** option to launch Azure Data Factory Studio. This is where you can begin designing and managing your data integration pipelines.
+
+<img width="1648" height="870" alt="image" src="https://github.com/user-attachments/assets/0229844f-5593-475c-a965-094e081aca23" />
+
+
 
